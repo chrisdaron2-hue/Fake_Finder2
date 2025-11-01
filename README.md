@@ -91,13 +91,14 @@ python fake_finder.py
 ```
 ---
 ## 📁 Project Structure
+```Bash
 fake_finder/
 │
 ├── main.py       # Main game logic
 ├── .env                 # Environment variables (not tracked by Git)
 ├── requirements.txt     # Dependencies
 └── README.md            # Documentation
-
+```
 ---
 ## 🧑‍💻 Requirements
 
